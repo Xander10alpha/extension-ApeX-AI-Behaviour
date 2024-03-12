@@ -1,7 +1,5 @@
 # ApeX-AI-Behaviour
 
-## Deutsch:
-
 Die ApeX-KI ist seit dem Update UCP 2.12 im April 2019 in Entwicklung und hat eine sehr lange und intensive Geschichte hinter sich. Meine Idee ist, dass diese KI eine echte Herausforderung für Spieler und andere KIs ist. Jahrelanges Testen, Tausende KI Kämpfe, Kreuzzugmärsche und im Multiplayer mit anderen Spielern haben die KIs über viele Versionen feingeschliffen. Ich danke allen für das Feedback!
 
 Ich würde sagen, dieses Ziel ist endlich erreicht. Hier bekommt ihr eine einzigartige Erfahrung, wie sich die klassischen 16 KIs anfühlen können! Der harte Kern der Vanilla KIs ist geblieben, und durch passende Kompetenzen und Strategien erweitert worden. Jede der 16 KIs bietet daher ein herausforderndes, einzigartiges Spielerlebnis!
