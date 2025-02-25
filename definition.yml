@@ -1,5 +1,6 @@
 name: ApeX-AI-Behaviour
 display-name: "ApeX AI Behaviour"
+type: plugin
 author: Xander10alpha
 version: 1.4.0
 dependencies: 
